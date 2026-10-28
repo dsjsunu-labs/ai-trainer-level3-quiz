@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f7f4ed">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>AI训练师 · 三级题库</title>
+  <link rel="manifest" href="manifest.webmanifest?v=15">
+  <link rel="stylesheet" href="styles.css?v=15">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <button class="brand" data-view="home" aria-label="返回首页">
+        <span class="brand-mark">AI</span>
+        <span><strong>训练师题库</strong><small>三级 / 高级工</small></span>
+      </button>
+      <nav class="side-nav" aria-label="主要导航">
+        <button class="nav-item active" data-view="home"><span>⌂</span>学习首页</button>
+        <button class="nav-item" data-action="start-sequence"><span>▤</span>顺序练习</button>
+        <button class="nav-item" data-action="start-random"><span>⌁</span>随机练习</button>
+        <button class="nav-item" data-view="wrong"><span>↻</span>错题巩固 <b id="navWrong" hidden></b></button>
+        <button class="nav-item" data-view="changed"><span>↔</span>答案变更专项</button>
+        <button class="nav-item" data-view="favorite"><span>☆</span>我的收藏</button>
+        <button class="nav-item" data-action="start-exam"><span>◷</span>模拟考试</button>
+        <button class="nav-item" data-view="stats"><span>⌁</span>学习统计</button>
+      </nav>
+      <div class="sidebar-foot">
+        <div class="mini-ring" id="miniRing"><span id="miniPercent">0%</span></div>
+        <div><strong>总体掌握度</strong><small id="miniCaption">今天也要进步一点</small></div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow" id="pageEyebrow">人工智能训练师 · 三级</p>
+          <h1 id="pageTitle">今日学习</h1>
+        </div>
+        <div class="top-actions">
+          <button class="icon-button" id="searchBtn" title="搜索题库">⌕</button>
+          <button class="pomodoro-button" id="pomodoroBtn" title="番茄钟"><span>◷</span><b id="pomodoroTopText">番茄钟</b></button>
+          <button class="account-button" id="accountBtn" title="登录并同步"><span id="accountDot"></span><b id="accountText">登录同步</b></button>
+          <button class="streak"><span>🔥</span><b id="streakDays">0</b><small>连续天数</small></button>
+        </div>
+      </header>
+
+      <section id="viewRoot" class="view"></section>
+    </main>
+
+    <nav class="mobile-nav" aria-label="移动端导航">
+      <button class="active" data-view="home"><span>⌂</span>首页</button>
+      <button data-action="start-sequence"><span>▤</span>刷题</button>
+      <button data-view="wrong"><span>↻</span>错题</button>
+      <button data-action="start-exam"><span>◷</span>模拟</button>
+      <button data-view="stats"><span>⌁</span>统计</button>
+    </nav>
+  </div>
+
+  <dialog id="searchDialog" class="search-dialog">
+    <form method="dialog" class="dialog-head"><strong>搜索全部题库</strong><button aria-label="关闭">×</button></form>
+    <input id="searchInput" type="search" placeholder="输入关键词，例如：缺失值、职业道德…" autocomplete="off">
+    <div id="searchResults" class="search-results"></div>
+  </dialog>
+
+  <dialog id="examDialog" class="config-dialog">
+    <form method="dialog" class="dialog-head"><strong>模拟考试设置</strong><button aria-label="关闭">×</button></form>
+    <p>从全部题库随机抽题，交卷后统一显示答案。</p>
+    <label>题目数量
+      <select id="examCount"><option value="50">50题 · 快速模拟</option><option value="100" selected>100题 · 标准模拟</option><option value="200">200题 · 强化模拟</option></select>
+    </label>
+    <label>考试时间
+      <select id="examMinutes"><option value="30">30分钟</option><option value="60" selected>60分钟</option><option value="90">90分钟</option></select>
+    </label>
+    <button class="primary wide" id="confirmExam" type="button">开始考试</button>
+  </dialog>
+
+  <dialog id="practiceDialog" class="config-dialog">
+    <form method="dialog" class="dialog-head"><strong id="practiceDialogTitle">选择练习题型</strong><button aria-label="关闭">×</button></form>
+    <p>可单选，也可以任意组合。</p>
+    <div class="type-picker">
+      <label><input type="checkbox" name="practiceType" value="tf" checked><span><b>判断题</b><small>正确 / 错误</small></span></label>
+      <label><input type="checkbox" name="practiceType" value="single" checked><span><b>单选题</b><small>四选一</small></span></label>
+      <label><input type="checkbox" name="practiceType" value="multi" checked><span><b>多选题</b><small>选择多个答案</small></span></label>
+    </div>
+    <label id="practiceCountWrap">本组题量
+      <select id="practiceCount"><option value="10">10题</option><option value="20" selected>20题</option><option value="50">50题</option><option value="100">100题</option></select>
+    </label>
+    <button class="primary wide" id="confirmPractice" type="button">开始练习</button>
+  </dialog>
+
+  <dialog id="pomodoroDialog" class="config-dialog pomodoro-dialog">
+    <form method="dialog" class="dialog-head"><strong>专注番茄钟</strong><button aria-label="关闭">×</button></form>
+    <div class="pomo-display"><small id="pomoPhase">准备专注</small><strong id="pomoTime">25:00</strong></div>
+    <div class="pomo-presets">
+      <button type="button" data-preset="25,5" class="active">25 / 5</button>
+      <button type="button" data-preset="45,10">45 / 10</button>
+      <button type="button" data-preset="60,10">60 / 10</button>
+    </div>
+    <div class="pomo-custom"><label>专注分钟<input id="focusMinutes" type="number" min="1" max="180" value="25"></label><label>休息分钟<input id="breakMinutes" type="number" min="1" max="60" value="5"></label></div>
+    <div class="pomo-actions"><button class="primary" id="pomoStart" type="button">开始专注</button><button class="secondary" id="pomoPause" type="button" hidden>暂停</button><button class="ghost" id="pomoReset" type="button">重置</button></div>
+    <p class="auth-note">切换页面或锁屏后仍会按实际时间继续计时。结束时会响铃提醒。</p>
+  </dialog>
+
+  <dialog id="authDialog" class="config-dialog">
+    <form method="dialog" class="dialog-head"><strong>登录并同步进度</strong><button aria-label="关闭">×</button></form>
+    <div id="authLoggedOut">
+      <p>主屏幕版、电脑和 iPad 都可以直接登录，同一个账号会同步错题、收藏和学习记录。</p>
+      <p id="cloudStatus" class="auth-note">正在检测云同步服务…</p>
+      <label>邮箱地址<input id="authEmail" type="email" autocomplete="email" placeholder="name@example.com"></label>
+      <label>同步密码<input id="authPassword" type="password" autocomplete="current-password" minlength="8" placeholder="输入你为题库设置的密码"></label>
+      <button class="primary wide" id="passwordLoginBtn" type="button">直接登录并同步</button>
+      <div class="auth-divider"><span>第一次登录或还没设置同步密码</span></div>
+      <button class="secondary wide" id="sendCodeBtn" type="button">发送首次认证邮件</button>
+      <p id="mailSentTip" class="mail-sent" hidden>登录邮件已发送。请在当前设备打开邮件并点击 <b>Sign in</b>，随后会自动返回题库。</p>
+      <p class="auth-note">先在 Safari 通过邮件认证一次并设置同步密码。以后主屏幕版直接用邮箱和同步密码登录，不需要再收邮件。</p>
+      <p class="auth-note">Publishable key 仅用于安全地连接登录服务；数据库已设置为每位用户只能读取自己的记录。</p>
+    </div>
+    <div id="authLoggedIn" hidden>
+      <div class="signed-user"><span>✓</span><div><strong>同步已开启</strong><small id="signedEmail"></small></div></div>
+      <p id="syncStatusText">学习进度会在联网时自动保存。</p>
+      <button class="secondary wide" id="syncNowBtn" type="button">立即同步</button>
+      <div class="auth-password-setup">
+        <strong>让主屏幕版直接登录</strong>
+        <p>设置一次题库专用的同步密码，以后不必再点邮件。</p>
+        <label>新同步密码<input id="newSyncPassword" type="password" autocomplete="new-password" minlength="8" placeholder="至少 8 位，请自己记住"></label>
+        <label>再输入一次<input id="confirmSyncPassword" type="password" autocomplete="new-password" minlength="8" placeholder="再次输入相同密码"></label>
+        <button class="secondary wide" id="setPasswordBtn" type="button">设置 / 修改同步密码</button>
+        <p class="auth-note">这不是 QQ 邮箱密码，也不会修改 QQ 密码。网页不会保存你输入的同步密码。</p>
+      </div>
+      <button class="danger wide" id="signOutBtn" type="button">退出登录</button>
+    </div>
+  </dialog>
+
+  <div id="toast" class="toast" role="status"></div>
+  <div id="pomoFloat" class="pomo-float" hidden><span id="pomoFloatPhase">专注</span><b id="pomoFloatTime">25:00</b></div>
+  <script src="config.js?v=1"></script>
+  <script src="questions.js?v=15"></script>
+  <script src="supabase.js?v=15"></script>
+  <script src="app.js?v=15"></script>
+</body>
+</html>

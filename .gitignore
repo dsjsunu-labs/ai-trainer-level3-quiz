@@ -1,0 +1,11 @@
+dist/
+*.log
+test-results/
+playwright-report/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!*.env.example

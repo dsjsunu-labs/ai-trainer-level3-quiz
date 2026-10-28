@@ -1,0 +1,3856 @@
+{
+  "counts": {
+    "tf": 34,
+    "single": 38,
+    "multi": 155
+  },
+  "changes": [
+    {
+      "id": "tf-7",
+      "type": "tf",
+      "number": 7,
+      "stem": "人工智能训练师的主要任务是设计和开发新的算法。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-8",
+      "type": "tf",
+      "number": 8,
+      "stem": "职业守则仅仅是一种软约束，不具备法律效力。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-9",
+      "type": "tf",
+      "number": 9,
+      "stem": "职业守则的特点之一是具有普遍性，适用于所有行业。",
+      "oldAnswer": [
+        "×"
+      ],
+      "newAnswer": [
+        "√"
+      ]
+    },
+    {
+      "id": "tf-15",
+      "type": "tf",
+      "number": 15,
+      "stem": "人工智能训练师在训练过程中，可以根据自己的经验和直觉来调整模型参数，以提高模型性能。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-18",
+      "type": "tf",
+      "number": 18,
+      "stem": "如果鼠标和键盘都无法使用，可以通过按F8键进入Windows的高级启动选项进行修复。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-33",
+      "type": "tf",
+      "number": 33,
+      "stem": "劳动者在试用期内可以随时解除劳动合同。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-35",
+      "type": "tf",
+      "number": 35,
+      "stem": "网络接入的规范要求中，用户必须使用实名制进行注册。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-36",
+      "type": "tf",
+      "number": 36,
+      "stem": "关键信息基础设施的运营者应当自行或者委托网络安全服务机构对其网络的安全性和可能存在的风险每年至少进行一次检测评估。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-43",
+      "type": "tf",
+      "number": 43,
+      "stem": "著作权法只保护原创性的作品。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-46",
+      "type": "tf",
+      "number": 46,
+      "stem": "数据采集的常用工具包括Python、Excel和SQL Server。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-58",
+      "type": "tf",
+      "number": 58,
+      "stem": "数据审核平台是一种专门用于审核和处理数据的软件工具。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-70",
+      "type": "tf",
+      "number": 70,
+      "stem": "特征提取的主要方法包括主成分分析和线性判别分析。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-72",
+      "type": "tf",
+      "number": 72,
+      "stem": "数据质量评估通常是通过对数据进行抽样检查来进行的。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-79",
+      "type": "tf",
+      "number": 79,
+      "stem": "推荐系统的功能模块包括用户画像、物品画像和推荐算法三个部分。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-90",
+      "type": "tf",
+      "number": 90,
+      "stem": "数据挖掘和知识发现的方法包括监督学习、无监督学习和强化学习。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-92",
+      "type": "tf",
+      "number": 92,
+      "stem": "业务流程优化方法主要包括流程再造、流程改进和流程分析三种。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-96",
+      "type": "tf",
+      "number": 96,
+      "stem": "简化业务流程就是减少流程中的环节和步骤。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-106",
+      "type": "tf",
+      "number": 106,
+      "stem": "机器学习的基础流程包括特征工程、模型选择和评估。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-109",
+      "type": "tf",
+      "number": 109,
+      "stem": "学习率是影响模型训练效果的关键因素之一，较大的学习率会导致模型收敛速度加快，但可能会导致模型无法收敛。",
+      "oldAnswer": [
+        "×"
+      ],
+      "newAnswer": [
+        "√"
+      ]
+    },
+    {
+      "id": "tf-130",
+      "type": "tf",
+      "number": 130,
+      "stem": "缺失值处理方法中的删除法是指直接删除含有缺失值的记录。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-135",
+      "type": "tf",
+      "number": 135,
+      "stem": "数据去重技术主要是通过哈希表来实现的。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-165",
+      "type": "tf",
+      "number": 165,
+      "stem": "TensorFlow Lite是一个用于在移动设备上部署机器学习模型的框架。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-171",
+      "type": "tf",
+      "number": 171,
+      "stem": "性能监控工具可以自动发现系统中的瓶颈和问题，无需人工干预。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-203",
+      "type": "tf",
+      "number": 203,
+      "stem": "在文本数据处理中，分词是所有语言的必要步骤。",
+      "oldAnswer": [
+        "×"
+      ],
+      "newAnswer": [
+        "√"
+      ]
+    },
+    {
+      "id": "tf-204",
+      "type": "tf",
+      "number": 204,
+      "stem": "时间序列分析是一种预测方法，它可以帮助我们预测未来的天气情况。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-210",
+      "type": "tf",
+      "number": 210,
+      "stem": "在自然语言处理中，特征工程主要用于文本数据的降维处理。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-211",
+      "type": "tf",
+      "number": 211,
+      "stem": "响应时间的优化是指在软件设计中减少程序执行所需的时间。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-229",
+      "type": "tf",
+      "number": 229,
+      "stem": "主成分分析PCA是一种常用的维度约简技术，其基本思想是通过降低数据维度来减少信息损失。",
+      "oldAnswer": [
+        "×"
+      ],
+      "newAnswer": [
+        "√"
+      ]
+    },
+    {
+      "id": "tf-251",
+      "type": "tf",
+      "number": 251,
+      "stem": "人机交互三要素包括输入设备、输出设备和控制器。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-256",
+      "type": "tf",
+      "number": 256,
+      "stem": "适应性设计是指产品或服务能够根据用户的需求和偏好进行自动调整。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-275",
+      "type": "tf",
+      "number": 275,
+      "stem": "使用Adobe XD进行原型制作时，用户可以直接导出最终的设计文件。",
+      "oldAnswer": [
+        "×"
+      ],
+      "newAnswer": [
+        "√"
+      ]
+    },
+    {
+      "id": "tf-286",
+      "type": "tf",
+      "number": 286,
+      "stem": "培训讲义编写应该包含大量的理论知识和实例分析。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-296",
+      "type": "tf",
+      "number": 296,
+      "stem": "指导数据采集和处理问题的解决方法主要包括数据清洗、数据转换和数据可视化。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "tf-299",
+      "type": "tf",
+      "number": 299,
+      "stem": "数据标注流程中的常见问题点包括数据清洗和预处理。",
+      "oldAnswer": [
+        "√"
+      ],
+      "newAnswer": [
+        "×"
+      ]
+    },
+    {
+      "id": "single-1",
+      "type": "single",
+      "number": 1,
+      "stem": "职业道德的概念有广义和狭义之分。狭义的职业道德是指在(    )活动中应遵循的职业行为准则和规范。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": "single-8",
+      "type": "single",
+      "number": 8,
+      "stem": "职业道德是职业守则的核心内容之一，不属于职业道德强调的关系是(    )。",
+      "oldAnswer": [
+        "D"
+      ],
+      "newAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "single-9",
+      "type": "single",
+      "number": 9,
+      "stem": "从业人员要强化岗位职业责任必须要做到(    )。",
+      "oldAnswer": [
+        "B"
+      ],
+      "newAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": "single-24",
+      "type": "single",
+      "number": 24,
+      "stem": "在Word中，通过(    )，来快速应用一组格式选项。",
+      "oldAnswer": [
+        "B"
+      ],
+      "newAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": "single-29",
+      "type": "single",
+      "number": 29,
+      "stem": "在Excel中，(    )不可以快速切换不同的工作簿。",
+      "oldAnswer": [
+        "C"
+      ],
+      "newAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": "single-36",
+      "type": "single",
+      "number": 36,
+      "stem": "(    )是关键信息基础设施的特殊保护中的一方面。",
+      "oldAnswer": [
+        "B"
+      ],
+      "newAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "single-42",
+      "type": "single",
+      "number": 42,
+      "stem": "知识产权法的基本原则包括保护创作成果、鼓励创新和技术进步以及(    )。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "single-44",
+      "type": "single",
+      "number": 44,
+      "stem": "根据我国《专利法》的规定，申请专利的发明创造在申请日以前六个月内，出现(    )的情况，会丧失新颖性。",
+      "oldAnswer": [
+        "B"
+      ],
+      "newAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": "single-45",
+      "type": "single",
+      "number": 45,
+      "stem": "有可能无限期拥有的知识产权是(    )。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": "single-61",
+      "type": "single",
+      "number": 61,
+      "stem": "在进行网络数据采集时，我们应该优先选择(    )方法来确保数据的全面性。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "single-62",
+      "type": "single",
+      "number": 62,
+      "stem": "在评估数据源的质量时，(    )指标不是关键因素。",
+      "oldAnswer": [
+        "D"
+      ],
+      "newAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "single-64",
+      "type": "single",
+      "number": 64,
+      "stem": "为了确保抓取的数据质量，(    )方法是无效的。",
+      "oldAnswer": [
+        "D"
+      ],
+      "newAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "single-74",
+      "type": "single",
+      "number": 74,
+      "stem": "在设计高效业务流程时，(    )措施最有助于减少不必要的延误。",
+      "oldAnswer": [
+        "B"
+      ],
+      "newAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": "single-82",
+      "type": "single",
+      "number": 82,
+      "stem": "自动数据处理功能模块在(    )环节可以提高数据处理速度。",
+      "oldAnswer": [
+        "C"
+      ],
+      "newAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "single-92",
+      "type": "single",
+      "number": 92,
+      "stem": "在业务流程优化过程中，(    )策略可以提高企业的响应速度。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": "single-99",
+      "type": "single",
+      "number": 99,
+      "stem": "在进行复杂业务系统的改进时，首先应该进行的是(    )。",
+      "oldAnswer": [
+        "B"
+      ],
+      "newAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "single-110",
+      "type": "single",
+      "number": 110,
+      "stem": "在特征选择方法中，过滤法通常基于(    )准则来选择特征。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "single-116",
+      "type": "single",
+      "number": 116,
+      "stem": "如果需要快速原型设计和实验，(    )机器学习库更适合。",
+      "oldAnswer": [
+        "D"
+      ],
+      "newAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "single-125",
+      "type": "single",
+      "number": 125,
+      "stem": "生成对抗网络中的生成器通常使用(    )类型的神经网络结构。",
+      "oldAnswer": [
+        "C"
+      ],
+      "newAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "single-144",
+      "type": "single",
+      "number": 144,
+      "stem": "为了确保数据可追溯性，组织应该建立一套完整的数据管理流程，包括数据的(    )、存储、传输和销毁等环节。",
+      "oldAnswer": [
+        "B"
+      ],
+      "newAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "single-155",
+      "type": "single",
+      "number": 155,
+      "stem": "模型训练的目标是(    )。",
+      "oldAnswer": [
+        "C"
+      ],
+      "newAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "single-165",
+      "type": "single",
+      "number": 165,
+      "stem": "在模型部署过程中，为了实现自动化的模型更新和版本管理，通常会使用(    )工具。",
+      "oldAnswer": [
+        "C"
+      ],
+      "newAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": "single-184",
+      "type": "single",
+      "number": 184,
+      "stem": "在算法部署效果测试的流程中，(    )步骤是在算法部署之前进行的。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "single-196",
+      "type": "single",
+      "number": 196,
+      "stem": "数据拆解的主要目的是(    )。",
+      "oldAnswer": [
+        "C"
+      ],
+      "newAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "single-222",
+      "type": "single",
+      "number": 222,
+      "stem": "神经网络中的激活函数的作用是(    )。",
+      "oldAnswer": [
+        "B"
+      ],
+      "newAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": "single-223",
+      "type": "single",
+      "number": 223,
+      "stem": "贝叶斯网络中的链式法则用于计算(    )。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": "single-227",
+      "type": "single",
+      "number": 227,
+      "stem": "自然语言处理中的文本分类任务通常使用(    )算法。",
+      "oldAnswer": [
+        "D"
+      ],
+      "newAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": "single-248",
+      "type": "single",
+      "number": 248,
+      "stem": "在产品维护与升级的制定过程中，(    )步骤是确保产品质量的重要措施。",
+      "oldAnswer": [
+        "B"
+      ],
+      "newAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "single-250",
+      "type": "single",
+      "number": 250,
+      "stem": "人工智能训练师在提升AI模型性能时，与人机交互的(    )方面关系最为紧密。",
+      "oldAnswer": [
+        "D"
+      ],
+      "newAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "single-255",
+      "type": "single",
+      "number": 255,
+      "stem": "在项目管理中，(    )是确保项目顺利进行的关键环节之一。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": "single-256",
+      "type": "single",
+      "number": 256,
+      "stem": "在产品设计中，为了确保可访问性，(    )原则是必须遵循的。",
+      "oldAnswer": [
+        "C"
+      ],
+      "newAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "single-280",
+      "type": "single",
+      "number": 280,
+      "stem": "Figma的设计系统支持用于(    )。",
+      "oldAnswer": [
+        "D"
+      ],
+      "newAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "single-283",
+      "type": "single",
+      "number": 283,
+      "stem": "Marvel的响应式设计预览用于(    )。",
+      "oldAnswer": [
+        "C"
+      ],
+      "newAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "single-286",
+      "type": "single",
+      "number": 286,
+      "stem": "为了使培训讲义更具吸引力，编写时应注重(    )的选取和使用。",
+      "oldAnswer": [
+        "D"
+      ],
+      "newAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "single-290",
+      "type": "single",
+      "number": 290,
+      "stem": "研讨会法的主要优点是(    )。",
+      "oldAnswer": [
+        "D"
+      ],
+      "newAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "single-291",
+      "type": "single",
+      "number": 291,
+      "stem": "案例分析法(    )。",
+      "oldAnswer": [
+        "C"
+      ],
+      "newAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "single-293",
+      "type": "single",
+      "number": 293,
+      "stem": "在进行数据处理时，(    )步骤应该首先进行。",
+      "oldAnswer": [
+        "B"
+      ],
+      "newAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": "single-294",
+      "type": "single",
+      "number": 294,
+      "stem": "在数据处理过程中，(    )步骤不会导致数据丢失或错误。",
+      "oldAnswer": [
+        "C"
+      ],
+      "newAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": "multi-2",
+      "type": "multi",
+      "number": 2,
+      "stem": "职业道德基本知识中，关于奉献社会的要求，正确的是(    )。",
+      "oldAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-16",
+      "type": "multi",
+      "number": 16,
+      "stem": "Windows输入法的(    )智能应用可以帮助用户提高输入效率。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-17",
+      "type": "multi",
+      "number": 17,
+      "stem": "Windows系统更新工具可以更新(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-23",
+      "type": "multi",
+      "number": 23,
+      "stem": "在Word中，(    )可以提高工作效率。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-24",
+      "type": "multi",
+      "number": 24,
+      "stem": "关于Word样式库的快速应用，(    )操作可以加速文档格式设置。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-25",
+      "type": "multi",
+      "number": 25,
+      "stem": "在Word中进行图文混排时，可以提高文档的视觉效果和专业程度的方法有(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-27",
+      "type": "multi",
+      "number": 27,
+      "stem": "在Excel中，进行数据排序时，可以使用(    )方法。",
+      "oldAnswer": [
+        "A",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-28",
+      "type": "multi",
+      "number": 28,
+      "stem": "作为人工智能训练师，在使用Excel进行数据可视化时，(    )方法可以帮助提高图表的清晰度和专业度。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-29",
+      "type": "multi",
+      "number": 29,
+      "stem": "关于Excel工作簿的管理，(    )操作是正确的。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-31",
+      "type": "multi",
+      "number": 31,
+      "stem": "(    )情况可能导致劳动合同被认定为无效。",
+      "oldAnswer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-32",
+      "type": "multi",
+      "number": 32,
+      "stem": "在劳动合同中，通常需要明确规定(    )事项以保障雇员权益。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-36",
+      "type": "multi",
+      "number": 36,
+      "stem": "关键信息基础设施的运营者还应当履行(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-37",
+      "type": "multi",
+      "number": 37,
+      "stem": "(    )正确描述了专利申请权主体。",
+      "oldAnswer": [
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-39",
+      "type": "multi",
+      "number": 39,
+      "stem": "在专利申请流程的标准化步骤中，(    )属于必须进行的步骤。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-40",
+      "type": "multi",
+      "number": 40,
+      "stem": "遵纪守法的社会价值体现在(    )方面。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-42",
+      "type": "multi",
+      "number": 42,
+      "stem": "根据知识产权法的基本原则，(    )行为属于侵权行为。",
+      "oldAnswer": [
+        "A",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-43",
+      "type": "multi",
+      "number": 43,
+      "stem": "属于侵犯著作权人权利的情形是(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-44",
+      "type": "multi",
+      "number": 44,
+      "stem": "在讨论人工智能训练师与专利权的主体和客体时，(    )是正确的。",
+      "oldAnswer": [
+        "B",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-47",
+      "type": "multi",
+      "number": 47,
+      "stem": "数据抓取与提取的常用技术包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-48",
+      "type": "multi",
+      "number": 48,
+      "stem": "在数据采集流程中，使用工具可以(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-51",
+      "type": "multi",
+      "number": 51,
+      "stem": "在使用数据存储和管理工具时，(    )可以提高工作效率。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-53",
+      "type": "multi",
+      "number": 53,
+      "stem": "在进行数据预处理时，(    )工具可以帮助实现常见数据格式间的转换。",
+      "oldAnswer": [
+        "A",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-54",
+      "type": "multi",
+      "number": 54,
+      "stem": "大数据处理平台通常可以分为(    )类型。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-55",
+      "type": "multi",
+      "number": 55,
+      "stem": "广泛用于数据清洗和预处理阶段的工具是(    )。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "A",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-56",
+      "type": "multi",
+      "number": 56,
+      "stem": "特征工程工具在人工智能应用中通常具有(    )特点。",
+      "oldAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-57",
+      "type": "multi",
+      "number": 57,
+      "stem": "使用数据质量监控工具可以(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-58",
+      "type": "multi",
+      "number": 58,
+      "stem": "数据审核平台的主要类型包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-59",
+      "type": "multi",
+      "number": 59,
+      "stem": "在选择合适的数据可视化工具时，人工智能训练师应考虑(    )因素。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-61",
+      "type": "multi",
+      "number": 61,
+      "stem": "数据采集的策略包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-62",
+      "type": "multi",
+      "number": 62,
+      "stem": "在进行数据源选择时，(    )可以帮助我们找到合适的数据源。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-66",
+      "type": "multi",
+      "number": 66,
+      "stem": "数据清洗与预处理流程的主要步骤包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-67",
+      "type": "multi",
+      "number": 67,
+      "stem": "在数据集成过程中，(    )有助于处理数据冲突和不一致性。",
+      "oldAnswer": [
+        "A",
+        "B"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-69",
+      "type": "multi",
+      "number": 69,
+      "stem": "实时数据处理技术中，(    )特性对于处理大规模流式数据至关重要。",
+      "oldAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-70",
+      "type": "multi",
+      "number": 70,
+      "stem": "在特征选择方法中，(    )方法可以用于减少特征的维度。",
+      "oldAnswer": [
+        "A",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-71",
+      "type": "multi",
+      "number": 71,
+      "stem": "容器化技术在业务数据处理流程中的意义包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-72",
+      "type": "multi",
+      "number": 72,
+      "stem": "数据质量评估的主要目的是(    )。",
+      "oldAnswer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-75",
+      "type": "multi",
+      "number": 75,
+      "stem": "合规性检查的主要目的是(    )。",
+      "oldAnswer": [
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-76",
+      "type": "multi",
+      "number": 76,
+      "stem": "业务数据的特点有(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-77",
+      "type": "multi",
+      "number": 77,
+      "stem": "实施人工智能项目时(    )因素被认为是至关重要的成功要素。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-79",
+      "type": "multi",
+      "number": 79,
+      "stem": "推荐系统功能模块的原理包括(    )方面。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-84",
+      "type": "multi",
+      "number": 84,
+      "stem": "智能控制功能模块在(    )领域有广泛应用。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-85",
+      "type": "multi",
+      "number": 85,
+      "stem": "自然语言处理的任务有(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-87",
+      "type": "multi",
+      "number": 87,
+      "stem": "计算机视觉涉及(    )主要任务。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-88",
+      "type": "multi",
+      "number": 88,
+      "stem": "关于计算智能的描述，说法正确的是(    )。",
+      "oldAnswer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-95",
+      "type": "multi",
+      "number": 95,
+      "stem": "在进行简单业务流程分析时，常用的方法有(    )。",
+      "oldAnswer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-96",
+      "type": "multi",
+      "number": 96,
+      "stem": "为了实现业务流程的持续改进，可以采用(    )方法。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-98",
+      "type": "multi",
+      "number": 98,
+      "stem": "在综合业务流程分析流程中，(    )阶段涉及到对现有流程的详细描述和改进建议。",
+      "oldAnswer": [
+        "B"
+      ],
+      "newAnswer": [
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-99",
+      "type": "multi",
+      "number": 99,
+      "stem": "在进行复杂业务系统改进时，可以考虑的措施有(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-100",
+      "type": "multi",
+      "number": 100,
+      "stem": "综合业务流程优化方法的原则包括：(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-106",
+      "type": "multi",
+      "number": 106,
+      "stem": "关于机器学习的基本流程，必要的步骤包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-108",
+      "type": "multi",
+      "number": 108,
+      "stem": "在智能训练中，特征提取的主要方法包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": "multi-109",
+      "type": "multi",
+      "number": 109,
+      "stem": "在模型训练中，可以用来改善模型的性能的策略包括(    )。",
+      "oldAnswer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-110",
+      "type": "multi",
+      "number": 110,
+      "stem": "数据预处理的策略有(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-111",
+      "type": "multi",
+      "number": 111,
+      "stem": "在数据增强中，(    )方法可以增加数据的多样性。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-112",
+      "type": "multi",
+      "number": 112,
+      "stem": "(    )方法属于水平分片技术。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-114",
+      "type": "multi",
+      "number": 114,
+      "stem": "在模型评估指标的计算方法中，(    )是正确的。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-115",
+      "type": "multi",
+      "number": 115,
+      "stem": "在评估回归模型时，常用的评估指标有(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-118",
+      "type": "multi",
+      "number": 118,
+      "stem": "在设计数据收集任务的策略时，需要考虑(    )些因素。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-122",
+      "type": "multi",
+      "number": 122,
+      "stem": "在模型训练过程中，(    )技术可以用于防止过拟合。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-123",
+      "type": "multi",
+      "number": 123,
+      "stem": "(    )原理是和人工智能训练师和模型训练自动化工具的工作中相关的。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-124",
+      "type": "multi",
+      "number": 124,
+      "stem": "在系统监控中，常用于收集和分析服务器性能指标的工具是(    )。",
+      "oldAnswer": [
+        "A",
+        "B"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-125",
+      "type": "multi",
+      "number": 125,
+      "stem": "在生成对抗网络中，(    )方法可以用于提高生成数据的质量。",
+      "oldAnswer": [
+        "A",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-127",
+      "type": "multi",
+      "number": 127,
+      "stem": "使用模型部署工具时，通常需要考虑(    )因素。",
+      "oldAnswer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-128",
+      "type": "multi",
+      "number": 128,
+      "stem": "(    )是探索性数据分析常用的可视化图形方法。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-129",
+      "type": "multi",
+      "number": 129,
+      "stem": "在进行数据探索分析时，通常会关注(    )方面的信息。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-130",
+      "type": "multi",
+      "number": 130,
+      "stem": "在python中，利用填充缺失数据处理缺失数据的方法主要有(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-133",
+      "type": "multi",
+      "number": 133,
+      "stem": "处理异常值的常用方法有(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-136",
+      "type": "multi",
+      "number": 136,
+      "stem": "数据归一化的方法有(    )。",
+      "oldAnswer": [
+        "A",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-137",
+      "type": "multi",
+      "number": 137,
+      "stem": "数据白化处理的主要目的是(    )",
+      "oldAnswer": [
+        "C"
+      ],
+      "newAnswer": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-139",
+      "type": "multi",
+      "number": 139,
+      "stem": "使用数据标注工具时，应该注意(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-142",
+      "type": "multi",
+      "number": 142,
+      "stem": "自动化标注的优势包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-143",
+      "type": "multi",
+      "number": 143,
+      "stem": "分布式数据处理的主要优势包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-144",
+      "type": "multi",
+      "number": 144,
+      "stem": "数据可追溯性是指数据从产生到销毁的整个生命周期内，能够追踪和记录数据的来源、修改、传输和使用情况的能力。(    )符合数据可追溯性的定义。",
+      "oldAnswer": [
+        "B",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-145",
+      "type": "multi",
+      "number": 145,
+      "stem": "数据可追溯性的重要性是(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-146",
+      "type": "multi",
+      "number": 146,
+      "stem": "在Excel中进行数据清洗时，(    )操作是常用的数据预处理步骤。",
+      "oldAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-150",
+      "type": "multi",
+      "number": 150,
+      "stem": "在算法训练过程中，(    )步骤是必不可少的。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-152",
+      "type": "multi",
+      "number": 152,
+      "stem": "(    )是分布式数据库系统MyCat的三大功能。",
+      "oldAnswer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-155",
+      "type": "multi",
+      "number": 155,
+      "stem": "在模型训练过程中，(    )步骤是必不可少的。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-156",
+      "type": "multi",
+      "number": 156,
+      "stem": "在深度学习中，为了提高模型的泛化能力，通常会使用正则化技术。关于正则化技术的分类和特点的描述，(    )描述是正确的。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-157",
+      "type": "multi",
+      "number": 157,
+      "stem": "算法训练环境搭建的要素包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-161",
+      "type": "multi",
+      "number": 161,
+      "stem": "模型训练动态监控工具常见的功能是(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-163",
+      "type": "multi",
+      "number": 163,
+      "stem": "在选择算法测试的评价指标时，需要考虑(    )因素。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-164",
+      "type": "multi",
+      "number": 164,
+      "stem": "(    )是在模型部署阶段进行的。",
+      "oldAnswer": [
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-165",
+      "type": "multi",
+      "number": 165,
+      "stem": "(    )工具提供了模型转换功能，以便于模型部署。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-168",
+      "type": "multi",
+      "number": 168,
+      "stem": "(    )正确描述了容器化技术与虚拟机技术的区别。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-171",
+      "type": "multi",
+      "number": 171,
+      "stem": "人工智能训练师在使用性能监控工具时可以关注(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-172",
+      "type": "multi",
+      "number": 172,
+      "stem": "一个良好的测试用例通常具备(    )的属性。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-173",
+      "type": "multi",
+      "number": 173,
+      "stem": "人工智能测试的主要目包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-175",
+      "type": "multi",
+      "number": 175,
+      "stem": "在选择测试框架时，需要考虑的主要因素有(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-176",
+      "type": "multi",
+      "number": 176,
+      "stem": "关于自动化和手动测试方法的比较与选择，描述正确的是(    )。",
+      "oldAnswer": [
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-178",
+      "type": "multi",
+      "number": 178,
+      "stem": "在算法准确度测试中，通常使用(    )来衡量算法的准确性。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-180",
+      "type": "multi",
+      "number": 180,
+      "stem": "算法安全性测试的目的是(    )",
+      "oldAnswer": [
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-182",
+      "type": "multi",
+      "number": 182,
+      "stem": "在进行数据多样性测试时，必须遵守的原则是(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-187",
+      "type": "multi",
+      "number": 187,
+      "stem": "为了确保算法测试报告的清晰性和可读性，应该采取的措施有(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-189",
+      "type": "multi",
+      "number": 189,
+      "stem": "TensorBoard提供的(    )功能有助于模型的监控和调试。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-190",
+      "type": "multi",
+      "number": 190,
+      "stem": "在进行日志分析时，(    )技巧可以帮助提高分析的效率和质量。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-195",
+      "type": "multi",
+      "number": 195,
+      "stem": "在人工智能系统测试阶段应该包括对算法决策过程的伦理评估，确保(    )。",
+      "oldAnswer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-196",
+      "type": "multi",
+      "number": 196,
+      "stem": "(    )方法属于数据拆解的常用手段。",
+      "oldAnswer": [
+        "A",
+        "B"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-200",
+      "type": "multi",
+      "number": 200,
+      "stem": "基于统计的特征拆解的目的是(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-201",
+      "type": "multi",
+      "number": 201,
+      "stem": "在特征选择过程中，可以使用(    )方法来评估特征的重要性。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-204",
+      "type": "multi",
+      "number": 204,
+      "stem": "时间序列分析在天气预报中的主要作用是(    )。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-205",
+      "type": "multi",
+      "number": 205,
+      "stem": "在网络分析中，节点通常不能用来表示(    )。",
+      "oldAnswer": [
+        "B"
+      ],
+      "newAnswer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-206",
+      "type": "multi",
+      "number": 206,
+      "stem": "(    )正确描述了人工智能训练师和网络分析方法在社会网络研究中的应用。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-207",
+      "type": "multi",
+      "number": 207,
+      "stem": "多维度数据分解的主要目的是(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-209",
+      "type": "multi",
+      "number": 209,
+      "stem": "(    )正确描述了人工智能训练师与机器学习特征工程分类之间的关系，",
+      "oldAnswer": [
+        "A",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-213",
+      "type": "multi",
+      "number": 213,
+      "stem": "在分布式系统中，为了实现负载均衡，(    )策略可以被采用。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-215",
+      "type": "multi",
+      "number": 215,
+      "stem": "数据分析的标准流程通常包括(    )步骤。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-217",
+      "type": "multi",
+      "number": 217,
+      "stem": "在应用机器学习算法时，为了加快模型的训练速度，可以采取以下(    )策略。",
+      "oldAnswer": [
+        "B",
+        "D"
+      ],
+      "newAnswer": [
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-221",
+      "type": "multi",
+      "number": 221,
+      "stem": "在决策树分析中，(    )确定最优的划分标准。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": "multi-224",
+      "type": "multi",
+      "number": 224,
+      "stem": "在集成学习中，Boosting方法通过(    )方式提高模型的准确性。",
+      "oldAnswer": [
+        "C"
+      ],
+      "newAnswer": [
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-225",
+      "type": "multi",
+      "number": 225,
+      "stem": "深度学习中常用的网络结构包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-226",
+      "type": "multi",
+      "number": 226,
+      "stem": "强化学习策略的目标是实现奖励最大化。在选择动作时，通常采用的策略包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-227",
+      "type": "multi",
+      "number": 227,
+      "stem": "自然语言处理中的文本分析技术主要包括(    )方面。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-229",
+      "type": "multi",
+      "number": 229,
+      "stem": "在应用维度约简技术进行数据压缩时，(    )因素需要考虑。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-231",
+      "type": "multi",
+      "number": 231,
+      "stem": "人工智能训练师在数据融合技术综合利用中，主要用于提升模型的(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-233",
+      "type": "multi",
+      "number": 233,
+      "stem": "用户需求分析的目的是(    )。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-235",
+      "type": "multi",
+      "number": 235,
+      "stem": "在选择人工智能算法时，训练师应关注算法的(    )，以确保模型的高效运行。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-236",
+      "type": "multi",
+      "number": 236,
+      "stem": "在模型训练与验证的过程中，(    )方法可以用来评估模型的性能。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-239",
+      "type": "multi",
+      "number": 239,
+      "stem": "用户体验设计UX的原则包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-243",
+      "type": "multi",
+      "number": 243,
+      "stem": "关于代码优化，可以提升程序运行效率的实践是(    )。",
+      "oldAnswer": [
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-244",
+      "type": "multi",
+      "number": 244,
+      "stem": "在可扩展性设计中，(    )方法可以提高系统的灵活性。",
+      "oldAnswer": [
+        "A",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-247",
+      "type": "multi",
+      "number": 247,
+      "stem": "故障恢复的策略性设计需要考虑(    )方面。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-250",
+      "type": "multi",
+      "number": 250,
+      "stem": "(    )与人工智能训练师和人机交互的定义紧密相关。",
+      "oldAnswer": [
+        "B",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-251",
+      "type": "multi",
+      "number": 251,
+      "stem": "人机交互的目的是(    )。",
+      "oldAnswer": [
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-252",
+      "type": "multi",
+      "number": 252,
+      "stem": "人机交互的模型包括(    )方面。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-255",
+      "type": "multi",
+      "number": 255,
+      "stem": "为了确保反馈机制的有效性，需要考虑的因素有(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-257",
+      "type": "multi",
+      "number": 257,
+      "stem": "电阻式触摸技术的缺点包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-260",
+      "type": "multi",
+      "number": 260,
+      "stem": "在虚拟现实VR交互设计中，(    )方法可以提高用户的沉浸感。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-261",
+      "type": "multi",
+      "number": 261,
+      "stem": "多模态交互的综合设计需要考虑(    )方面。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-262",
+      "type": "multi",
+      "number": 262,
+      "stem": "用户研究方法论的目的是(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-263",
+      "type": "multi",
+      "number": 263,
+      "stem": "在人工智能训练师的工作流程中，原型设计与测试的实施过程包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-267",
+      "type": "multi",
+      "number": 267,
+      "stem": "人机交互系统的性能评价标准通常包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-269",
+      "type": "multi",
+      "number": 269,
+      "stem": "在设计过程中，为了提高产品的可用性，应该遵循(    )原则。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-273",
+      "type": "multi",
+      "number": 273,
+      "stem": "在界面设计中，为了提高信息的可读性和易理解性，通常会采用(    )哪些布局策略。",
+      "oldAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-275",
+      "type": "multi",
+      "number": 275,
+      "stem": "在Adobe XD中，(    )是创建原型的方法。",
+      "oldAnswer": [
+        "A",
+        "B"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-276",
+      "type": "multi",
+      "number": 276,
+      "stem": "Adobe XD的视觉设计工具适用于(    )场景。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-277",
+      "type": "multi",
+      "number": 277,
+      "stem": "在人工智能培训中，Axure RP可以用来进行复杂交互模拟(    )方面。",
+      "oldAnswer": [
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-278",
+      "type": "multi",
+      "number": 278,
+      "stem": "在使用Axure RP进行原型设计时，条件逻辑设置可以用于实现(    )交互特性。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-279",
+      "type": "multi",
+      "number": 279,
+      "stem": "在使用Balsamiq Mockups进行低保真设计时，(    )操作可以帮助你更好地组织和管理你的设计元素。",
+      "oldAnswer": [
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-280",
+      "type": "multi",
+      "number": 280,
+      "stem": "Figma的设计系统支持(    )功能。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-281",
+      "type": "multi",
+      "number": 281,
+      "stem": "在Marvel的简单交互设计中，用户可以通过(    )方式进行操作。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-282",
+      "type": "multi",
+      "number": 282,
+      "stem": "Marvel的设计评审功能可以帮助设计师们发现设计中的(    )问题。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-283",
+      "type": "multi",
+      "number": 283,
+      "stem": "Marvel的响应式设计预览中，(    )功能可以帮助用户在不同设备上获得最佳体验。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-284",
+      "type": "multi",
+      "number": 284,
+      "stem": "在Sketch的插件生态系统中，(    )插件可以帮助设计师提高工作效率。",
+      "oldAnswer": [
+        "A",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-285",
+      "type": "multi",
+      "number": 285,
+      "stem": "在Sketch中，矢量图形的编辑可以通过(    )来实现精确的节点控制。",
+      "oldAnswer": [
+        "A"
+      ],
+      "newAnswer": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": "multi-286",
+      "type": "multi",
+      "number": 286,
+      "stem": "编写培训讲义时，应遵循(    )原则。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-287",
+      "type": "multi",
+      "number": 287,
+      "stem": "为了提高培训效果，培训讲义结构设计的方法是(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "id": "multi-289",
+      "type": "multi",
+      "number": 289,
+      "stem": "在领导力培训中，常用的方法包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-290",
+      "type": "multi",
+      "number": 290,
+      "stem": "(    )培训方法可以帮助员工更好地理解和掌握新知识。",
+      "oldAnswer": [
+        "C",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-291",
+      "type": "multi",
+      "number": 291,
+      "stem": "人工智能训练师的培训方法中，(    )可能导致培训效果不佳。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-294",
+      "type": "multi",
+      "number": 294,
+      "stem": "在数据处理过程中，(    )步骤可能会导致数据丢失或错误。",
+      "oldAnswer": [
+        "A",
+        "B"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "multi-295",
+      "type": "multi",
+      "number": 295,
+      "stem": "在数据采集和处理流程中，常见的错误包括(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-297",
+      "type": "multi",
+      "number": 297,
+      "stem": "数据标注流程中的重点分析包括(    )。",
+      "oldAnswer": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "multi-298",
+      "type": "multi",
+      "number": 298,
+      "stem": "数据标注过程中，解决标注人员水平参差不齐问题的方法有(    )。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": "multi-300",
+      "type": "multi",
+      "number": 300,
+      "stem": "在解决数据标注问题时，(    )可以提高标注的准确性。",
+      "oldAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "newAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    }
+  ],
+  "textDifferences": [
+    {
+      "id": "single-81",
+      "old": "【原始题库此题题干缺失，请结合选项记忆】",
+      "new": "智能交互功能模块的优势在于(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-82",
+      "old": "数据分析",
+      "new": "自动数据处理功能模块在(    )环节可以提高数据处理速度。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-111",
+      "old": "是一种常见的图像变换技术，它可以改变图像的大小和形状。",
+      "new": "在数据增强方法中，(    )是一种常见的图像变换技术，它可以改变图像的大小和形状。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-114",
+      "old": "在模型评估中，召回率Recall的计算方法是：。",
+      "new": "在模型评估中，召回率Recall的计算方法是：(    )。",
+      "optionsMatch": false
+    },
+    {
+      "id": "single-151",
+      "old": "划分方法。",
+      "new": "在数据集划分时，如果目标是提高模型的准确性，应采用(    )划分方法。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-181",
+      "old": "的测试方法主要关注算法的内部逻辑和结构。",
+      "new": "在算法可解释性与透明度测试中，(    )的测试方法主要关注算法的内部逻辑和结构。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-201",
+      "old": "提高模型的预测准确性。",
+      "new": "人工智能训练师进行基于模型的特征拆解及选择的初衷是(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-231",
+      "old": "实施数据清洗和预处理步骤。",
+      "new": "在数据融合过程中，人工智能训练师通常确保数据的一致性和可靠性的方法有(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-232",
+      "old": "解决复杂问题并创造新价值。",
+      "new": "智能解决方案设计的核心目标是(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-233",
+      "old": "通过数据分析工具验证数据。",
+      "new": "在用户需求分析中，(    )确保数据的准确性。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-234",
+      "old": "简单明了，聚焦核心需求。",
+      "new": "产品功能规划应该具备(    )性质。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-235",
+      "old": "确保数据采集的全面性和实时性。",
+      "new": "(    )原则最符合人工智能技术选型时对数据层的关注。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-236",
+      "old": "网格搜索。",
+      "new": "在模型训练完成后，通常使用(    )来选择最佳的模型参数。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-237",
+      "old": "采用开放式架构。",
+      "new": "在系统集成设计中，(    )确保系统的可扩展性。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-238",
+      "old": "文字提示。",
+      "new": "用户界面设计UI中的反馈机制是指当用户与界面进行交互时，系统应该提供(    )以确认操作是否成功。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-239",
+      "old": "实用性。",
+      "new": "在用户体验设计中，(    )原则强调产品应满足用户需求并有效解决他们的问题。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-240",
+      "old": "采集和利用独特且高质量的行业数据。",
+      "new": "人工智能训练师通过(    )数据策略实现产品差异化。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-241",
+      "old": "定期进行系统漏洞扫描。",
+      "new": "在设计一个安全系统时，(    )措施可以提高系统的安全性。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-242",
+      "old": "API。",
+      "new": "为了实现跨云服务的集成，通常需要使用(    )技术。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-243",
+      "old": "最少连接数算法。",
+      "new": "在分布式系统中，(    )实现负载均衡以提高系统的性能。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-244",
+      "old": "提高系统在负载增加时的性能。",
+      "new": "可扩展性设计的主要目标是(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-245",
+      "old": "彻底消除所有软件缺陷。",
+      "new": "代码审计与优化对于软件开发过程的重要性不包括(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-246",
+      "old": "通知受影响的用户，报告给相关监管机构。",
+      "new": "根据数据保护与隐私的法规要求，企业在发生数据泄露事件时必须立即采取(    )措施。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-247",
+      "old": "系统容错能力。",
+      "new": "网络拓扑结构对故障恢复策略性设计的影响主要体现在(    )方面。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-248",
+      "old": "定期进行产品审查。",
+      "new": "在产品维护与升级的制定过程中，(    )步骤是确保产品质量的重要措施。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-249",
+      "old": "优化产品性能和用户体验。",
+      "new": "在AI产品的迭代过程中，用户反馈的主要作用是(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-250",
+      "old": "用户体验优化。",
+      "new": "人工智能训练师在提升AI模型性能时，与人机交互的(    )方面关系最为紧密。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-251",
+      "old": "显示器。",
+      "new": "在人机交互系统中，(    )负责将计算机处理后的结果呈现给用户。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-252",
+      "old": "接收用户输入并转换为机器可识别的信号。",
+      "new": "人机交互中的控制器负责(    )功能。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-253",
+      "old": "直观性。",
+      "new": "在设计人机交互界面时，(    )是非常重要的，因为它可以帮助用户快速理解如何使用产品。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-254",
+      "old": "显示效果清晰。",
+      "new": "在设计输出设备时，应该确保其(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-255",
+      "old": "规划。",
+      "new": "在项目管理中，(    )是确保项目顺利进行的关键环节之一。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-256",
+      "old": "易于理解和操作。",
+      "new": "在产品设计中，为了确保可访问性，(    )原则是必须遵循的。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-257",
+      "old": "电容式。",
+      "new": "(    )触控技术可以实现多点触控，提高用户体验。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-258",
+      "old": "语音识别准确率。",
+      "new": "(    )是语音交互设计中，人工智能训练师需要特别关注的事项。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-259",
+      "old": "实时提供反馈和指导。",
+      "new": "最能体现AR技术的实时交互特性的功能是(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-260",
+      "old": "运动控制器。",
+      "new": "虚拟现实VR交互设计中，为了提高用户的操作效率，应该采用(    )输入设备。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-261",
+      "old": "为了确保在任何环境下，交互模式都能有效、安全地工作。",
+      "new": "在设计多模态交互系统时，需要考虑用户的上下文环境的原因是(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-262",
+      "old": "深入分析用户数据，结合用户研究方法论来指导模型训练。",
+      "new": "在人工智能训练过程中，人工智能训练师(    )有效利用用户研究的方法来提升模型性能。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-290",
+      "old": "能够培养员工的团队合作精神。",
+      "new": "研讨会法的主要优点是(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-291",
+      "old": "可以提高学生的实践能力。",
+      "new": "案例分析法(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-292",
+      "old": "角色扮演法。",
+      "new": "企业常用的培训方法包括讲授法、讨论法、(    )和案例分析法。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-293",
+      "old": "数据抽取步骤应该首先进行。",
+      "new": "在进行数据处理时，(    )步骤应该首先进行。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-294",
+      "old": "数据加载步骤不会导致数据丢失或错误。",
+      "new": "在数据处理过程中，(    )步骤不会导致数据丢失或错误。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-295",
+      "old": "优化数据处理算法的方法可以帮助提高数据处理效率。",
+      "new": "在数据处理阶段，(    )的方法可以帮助提高数据处理效率。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-296",
+      "old": "重新审核和校正数据。",
+      "new": "当面临数据标注不一致的问题时，应该采取的措施是(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-297",
+      "old": "确保数据质量。",
+      "new": "在人工智能训练过程中，数据标注的重要性主要体现在(    )。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-298",
+      "old": "采用半自动标注工具助于提高标注效率。",
+      "new": "当面临大量复杂的数据需要标注时，(    )助于提高标注效率。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-299",
+      "old": "标注人员对标注标准理解不同最可能导致标注结果的不一致性。",
+      "new": "数据标注项目中，(    )最可能导致标注结果的不一致性。",
+      "optionsMatch": true
+    },
+    {
+      "id": "single-300",
+      "old": "增加人工标注人员的数量不是有效的方法。",
+      "new": "在解决人工智能训练中的数据标注问题时，(    )不是有效的方法。",
+      "optionsMatch": true
+    },
+    {
+      "id": "multi-1",
+      "old": "职业道德，就是同人们的职业活动紧密联系的符合职业特点所要求的总和。",
+      "new": "职业道德，就是同人们的职业活动紧密联系的符合职业特点所要求(    )的的总和。",
+      "optionsMatch": true
+    },
+    {
+      "id": "multi-30",
+      "old": "作为人工智能训练师，在利用Excel宏实现数据处理自动化时，操作是可能的。",
+      "new": "作为人工智能训练师，在利用Excel宏实现数据处理自动化时，(    )操作是可能的。",
+      "optionsMatch": false
+    }
+  ],
+  "latestCount": 900
+}
